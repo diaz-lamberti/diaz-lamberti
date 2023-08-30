@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 
-- 🔭 I’m currently working on **"How long has CABJ been in the first division?"**
+- 🔭 I’m currently working on **"How long has Boca Juniors been in the First Division of Argentina?"**
 
 - 📫 You can contact me by mail: **alan.diazlamberti@gmail.com**
 
