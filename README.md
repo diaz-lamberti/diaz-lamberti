@@ -6,6 +6,9 @@ https://user-images.githubusercontent.com/54050160/171843826-044a9f23-6539-4f90-
 - 🔭 I’m currently working on **"How long has CABJ been in the first division?"**
 
 - 👨‍💻 All of my projects are available at ["portfolio link"]("portfolio link")
+![171843826-044a9f23-6539-4f90-8053-fd34f0794402](https://github.com/diaz-lamberti/diaz-lamberti/assets/130183798/5069ef1c-e02b-4406-89c7-2203ee7f4cb4)
+
+- 
 
 - 📫 How to reach me **alan.diazlamberti@gmail.com**
 
