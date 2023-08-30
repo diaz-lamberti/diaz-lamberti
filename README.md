@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+https://user-images.githubusercontent.com/54050160/171843826-044a9f23-6539-4f90-8053-fd34f0794402.gif
+
 - 🔭 I’m currently working on **"How long has CABJ been in the first division?"**
 
 - 👨‍💻 All of my projects are available at ["portfolio link"]("portfolio link")
