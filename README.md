@@ -8,12 +8,13 @@
 - 👨‍💻 All of my projects are available at ["portfolio link"]("portfolio link")
 
 
-- ![RLWk7](https://github.com/diaz-lamberti/diaz-lamberti/assets/130183798/00ec4f20-7b50-4ca7-95ec-468589a961a0)
-
 - ![descarga](https://github.com/diaz-lamberti/diaz-lamberti/assets/130183798/296393af-646a-42fc-acc5-c9779ade3246)
 
 ![project-deadline-progress-bar-animation](https://github.com/diaz-lamberti/diaz-lamberti/assets/130183798/fc4bfde7-4f88-4f74-8b75-7a517b1d1d04)
 
+<p align="center">
+  <img src="https://github.com/diaz-lamberti/diaz-lamberti/raw/main/assets/130183798/296393af-646a-42fc-acc5-c9779ade3246.jpg" alt="descarga">
+</p>
 
 - 📫 How to reach me **alan.diazlamberti@gmail.com**
 
