@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact, **I love soccer, but that was clear, right?**
 
-![Static Badge](https://img.shields.io/badge/Javascript-yellow) | ![Static Badge](https://img.shields.io/badge/CSS-blue) | ![Static Badge](https://img.shields.io/badge/HTML5-orange) | ![Static Badge](https://img.shields.io/badge/Bootstrap-8A2BE2) | ![Static Badge](https://img.shields.io/badge/Sass-pink) | ![Static Badge](https://img.shields.io/badge/Node.js-green) | ![Static Badge](https://img.shields.io/badge/Express-black) | ![Static Badge](https://img.shields.io/badge/MySql-white) | ![Static Badge](https://img.shields.io/badge/Heroku-b011fa) | ![Static Badge](https://img.shields.io/badge/Git-fa6a11)
+![Static Badge](https://img.shields.io/badge/HTML5-orange) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/Sass-pink) ![Static Badge](https://img.shields.io/badge/Javascript-yellow) ![Static Badge](https://img.shields.io/badge/Bootstrap-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Node.js-green) ![Static Badge](https://img.shields.io/badge/Express-0d0c0c) | ![Static Badge](https://img.shields.io/badge/MySql-white) ![Static Badge](https://img.shields.io/badge/Heroku-b011fa) ![Static Badge](https://img.shields.io/badge/Git-fa6a11)
 
 
 
