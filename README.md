@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 
-- 🔭 I’m currently working on **"Calcular tiempo en la Primera Division Argentina"**
+- 🔭 I’m currently working on **"Calculadora de tiempo en Primera Division"**
 
 - 📫 You can contact me by mail: **alan.diazlamberti@gmail.com**
 
